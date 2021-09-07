@@ -1,0 +1,12 @@
+D:\Docum\Программирование\COM_port\COM_port\COM_port\obj\Debug\COM_port.vbprojAssemblyReference.cache
+D:\Docum\Программирование\COM_port\COM_port\COM_port\obj\Debug\COM_port.Form1.resources
+D:\Docum\Программирование\COM_port\COM_port\COM_port\obj\Debug\COM_port.Resources.resources
+D:\Docum\Программирование\COM_port\COM_port\COM_port\obj\Debug\COM_port.vbproj.GenerateResource.cache
+D:\Docum\Программирование\COM_port\COM_port\COM_port\obj\Debug\COM_port.vbproj.CoreCompileInputs.cache
+D:\Docum\Программирование\COM_port\COM_port\COM_port\obj\Debug\COM_port.exe
+D:\Docum\Программирование\COM_port\COM_port\COM_port\obj\Debug\COM_port.xml
+D:\Docum\Программирование\COM_port\COM_port\COM_port\obj\Debug\COM_port.pdb
+D:\Docum\Программирование\COM_port\COM_port.exe
+D:\Docum\Программирование\COM_port\COM_port.pdb
+D:\Docum\Программирование\COM_port\COM_port.xml
+D:\Docum\Программирование\COM_port\COM_port\COM_port\obj\Debug\COM_port.Form2.resources

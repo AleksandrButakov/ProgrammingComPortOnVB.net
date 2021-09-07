@@ -1,1 +1,1 @@
-# ProgrammingComPortOnVB.net
+The program is designed to test the functionality of the new version of the hardware-software. It is necessary to generate the operation of a transistor switch with a frequency from 1Hz to 100Hz. We send impulses to the USB-COM port adapter, pins 4 and 5. We do the decoupling with the help of a high-power transistor connected according to the scheme with a common collector.
